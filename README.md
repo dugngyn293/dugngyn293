@@ -33,9 +33,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
-  <a href="https://www.assemblylanguage.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Assembly_language_logo.png" alt="Assembly" width="40" height="40"/>
-  </a>
   <a href="https://www.sqlite.org/index.html" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" width="40" height="40"/>
   </a>
