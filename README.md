@@ -2,12 +2,27 @@
 
 🌱 I’m currently learning **Fullstack Development, Software Engineering**
 
-💬 Ask me about **Python, JavaScript, C++, Web Development**
-
 📫 How to reach me: [nguyenleanhdung0903@gmail.com]
 
 
+### 🤝 Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/dariusnguyen0903/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+  </a>
+  <a href="https://www.facebook.com/nguyenleanhdung2903/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" width="40" height="40"/>
+  </a>
+</p>
 
+
+
+
+### 🖼 Frameworks:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+</p>
 ---
 
 ### 🛠 Tools:
@@ -41,4 +56,3 @@
 ### 🔥 Streak Stats:
 ![GitHub Streak](https://streak-stats.demolab.com?user=dugngyn293)
 ### 🌍 Total Contributions:
-![Contributions](https://custom-icon-badges.demolab.com/badge/dynamic/json?color=blue&label=Contributions&query=total&url=https%3A%2F%2Fgithub-contributions-api.deno.dev%2Fdugngyn293.json)
