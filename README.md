@@ -3,6 +3,7 @@
 🌱 I’m currently learning **Fullstack Development, Software Engineering**
 
 📫 How to reach me: [nguyenleanhdung0903@gmail.com]
+
 Website: [https://darius-nguyen.vercel.app/]
 
 
@@ -109,4 +110,5 @@ Website: [https://darius-nguyen.vercel.app/]
 
 ### 🔥 Streak Stats:
 ![GitHub Streak](https://streak-stats.demolab.com?user=dugngyn293)
+
 
