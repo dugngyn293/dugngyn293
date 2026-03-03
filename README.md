@@ -101,14 +101,8 @@ Website: [https://darius-nguyen.vercel.app/]
 </p>
 
 
-
-
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dugngyn293&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dugngyn293&layout=compact)
-
-
 ### 🔥 Streak Stats:
 ![GitHub Streak](https://streak-stats.demolab.com?user=dugngyn293)
+
 
 
