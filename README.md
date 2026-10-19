@@ -17,7 +17,6 @@ Computer Science student at the University of Adelaide, currently learning **Ful
 ---
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dugngyn293&show_icons=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dugngyn293&layout=donut" />
 </p>
 
