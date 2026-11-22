@@ -3,7 +3,7 @@
 Computer Science student at the University of Adelaide, currently learning **Fullstack Development** and **Software Engineering**, and interested in building things for the web.
 
 📫 How to reach me: [nguyenleanhdung0903@gmail.com](mailto:nguyenleanhdung0903@gmail.com)
-🌐 Check out more on my [portfolio](https://darius-nguyen.vercel.app/).
+🌐 Check out more on my [portfolio](https://darius-want-to-code.vercel.app/).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_URL)
